@@ -4,7 +4,7 @@ const app = express();
 const port = 80;
 
 const webhooks = [
-  "soon"
+  "https://discord.com/api/webhooks/1258113419677012122/tEFi00JvvRqbF05UbMyyrTITPGbbkbLGfZrhR-GHVihaU3d1jdT3Gtvb8r0yHyWaRExH"
 ];
 
 app.use(express.json());
