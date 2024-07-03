@@ -1,0 +1,15 @@
+{
+  "name": "darian-licker",
+  "version": "6.9",
+  "description": "a server made to suck it hard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "*",
+    "express": "*"
+  }
+}
